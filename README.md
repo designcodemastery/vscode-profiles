@@ -9,6 +9,9 @@ Repo to store the various VS Code profiles for differing projects:
 - Backend (Express, Flask,...)
 - DevOps (Docker, Kubernetes,...)
 
+- JavaScript
+- C#
+- TS
 - C
 - C++
 - Rust
